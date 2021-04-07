@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://picsum.photos/id/1025/600",
+        "name": "Dog",
+        "about": "a beautiful dog",
+        "category": "animals"
+    },
+
+    {
+        "id": 2,
+        "img": "https://picsum.photos/id/1024/600",
+        "name": "Bird",
+        "about": "a beautiful bird",
+        "category": "animals"
+    },
+
+    {
+        "id": 3,
+        "img": "https://picsum.photos/id/1074/600",
+        "name": "Big cat",
+        "about": "a beautiful kitty",
+        "category": "animals"
+    },
+
+    {
+        "id": 4,
+        "img": "https://picsum.photos/id/1073/600",
+        "name": "Papers",
+        "about": "wall full of papers",
+        "category": "other"
+    },
+
+    {
+        "id": 5,
+        "img": "https://picsum.photos/id/1075/600",
+        "name": "Tower",
+        "about": "well it's a big tower",
+        "category": "other"
+    },
+
+    {
+        "id": 6,
+        "img": "https://picsum.photos/id/1084/600",
+        "name": "Walrus",
+        "about": "a beautiful walrus",
+        "category": "animals"
+    }
+
+]
